@@ -23,14 +23,20 @@ The project relies on the following dependencies:
 To run the quiz application, follow these steps:
 
 1. Clone the project repository to your local machine.
+
 ```git clone https://github.com/diassio/quiz_sirius.git```
+
 2. Ensure that Python 3.8 is installed on your system.
 3. Install the required dependencies by running the following command in your terminal:
+
 ```pip install -r req.txt```
+
 4. Modify the file path in the app.py script to point to your desired doc file containing the quiz questions.
 5. Open a terminal or command prompt and navigate to the project directory.
 6. Run the quiz application by executing the following command:
+
 ```python -m streamlit run app.py```
+
 7. The application will start, and you can access it in your web browser at http://localhost:8501.
 
 ## Usage

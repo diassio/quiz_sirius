@@ -1,8 +1,8 @@
 import json
 import re
 
-def run_converter():
-    with open('content.txt', 'r') as file:
+def run_converter(path_to_content: str):
+    with open(path_to_content, 'r') as file:
         doc = file.read()
     doc = re.sub('\n+', '\n', doc)
     doc = '\n'.join([' '.join(line.split()) for line in doc.split('\n')])
@@ -52,4 +52,4 @@ def run_converter():
         f.write(json_data)
 
 if __name__ == "__main__":
-    run_converter()
+    run_converter("/Users/dias/Documents/Cerebra/quiz/content.txt")

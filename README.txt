@@ -1,7 +1,7 @@
-#Quiz Generator from Doc Files
+# Quiz Generator from Doc Files
 This project aims to create a quiz application using Streamlit, which parses doc files and generates multiple-choice questions for users to answer. The questions are displayed one by one, and the user's score is calculated based on their responses.
 
-##Project Structure
+## Project Structure
 The project consists of the following files:
 
 1. app.py: The main script that runs the quiz application.
@@ -11,7 +11,7 @@ The project consists of the following files:
 5. req.txt: Required libraries for the project
 5. Readme.md: The project documentation (you're currently reading it).
 
-##Dependencies
+## Dependencies
 
 The project relies on the following dependencies:
 1. Python 3.8
@@ -23,17 +23,17 @@ The project relies on the following dependencies:
 To run the quiz application, follow these steps:
 
 1. Clone the project repository to your local machine.
-`git clone https://github.com/diassio/quiz_sirius.git`
+```git clone https://github.com/diassio/quiz_sirius.git```
 2. Ensure that Python 3.8 is installed on your system.
 3. Install the required dependencies by running the following command in your terminal:
-'pip install -r req.txt'
+```pip install -r req.txt```
 4. Modify the file path in the app.py script to point to your desired doc file containing the quiz questions.
 5. Open a terminal or command prompt and navigate to the project directory.
 6. Run the quiz application by executing the following command:
-'python -m streamlit run app.py'
+```python -m streamlit run app.py```
 7. The application will start, and you can access it in your web browser at http://localhost:8501.
 
-##Usage
+## Usage
 
 Upon running the application, you will see the first question displayed.
 Read the question and choose one of the provided options.

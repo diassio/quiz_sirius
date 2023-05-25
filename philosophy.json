@@ -1,0 +1,121 @@
+{
+    "title": "Philosophy",
+    "mcq": [
+        {
+            "question": "4  !A 36- year-old female has complaints for intense headache, palpitation, pain in the chest, weakness. On examination: the patient is excited, pulse is 115 bpm, BP is 190/110 mm hg. Cardiac sounds are clear, loud, accent of the 2 sound over the aorta. The MOST likely emergency situation of this patient:\n",
+            "answers": [
+                {
+                    "option": "",
+                    "is_correct": false
+                },
+                {
+                    "option": "pulmonary oedema",
+                    "is_correct": false
+                },
+                {
+                    "option": "cardiogenic shock",
+                    "is_correct": false
+                },
+                {
+                    "option": "pulmonary embolism",
+                    "is_correct": false
+                },
+                {
+                    "option": "hypertensive crisis",
+                    "is_correct": true
+                },
+                {
+                    "option": "acute coronary syndrome",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "1  !The MOST frequent cardiologic cause of circulatory arrest:\n",
+            "answers": [
+                {
+                    "option": "",
+                    "is_correct": false
+                },
+                {
+                    "option": "asystole",
+                    "is_correct": false
+                },
+                {
+                    "option": "ventricular extrasystole",
+                    "is_correct": false
+                },
+                {
+                    "option": "fibrillation of the ventricles",
+                    "is_correct": true
+                },
+                {
+                    "option": "electromechanical dissociation",
+                    "is_correct": false
+                },
+                {
+                    "option": "paroxysmal supraventricular tachycardia",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "3  !At the fracture of the pelvis the victim must be laid\n",
+            "answers": [
+                {
+                    "option": "",
+                    "is_correct": false
+                },
+                {
+                    "option": "in the \"frog\" position",
+                    "is_correct": true
+                },
+                {
+                    "option": "elevated pelvis",
+                    "is_correct": false
+                },
+                {
+                    "option": "on the stomach",
+                    "is_correct": false
+                },
+                {
+                    "option": "half sitting",
+                    "is_correct": false
+                },
+                {
+                    "option": "on side",
+                    "is_correct": false
+                }
+            ]
+        },
+        {
+            "question": "2  !Effective transport immobilization for fractures of the leg bones requires\n",
+            "answers": [
+                {
+                    "option": "",
+                    "is_correct": false
+                },
+                {
+                    "option": "fix of limb from middle third of thigh-bone to toes",
+                    "is_correct": false
+                },
+                {
+                    "option": "transport immobilization is not required",
+                    "is_correct": false
+                },
+                {
+                    "option": "fixation of hip, knee and ankle joints",
+                    "is_correct": false
+                },
+                {
+                    "option": "fixing the knee and ankle joints",
+                    "is_correct": true
+                },
+                {
+                    "option": "fixation of bone fragments",
+                    "is_correct": false
+                }
+            ]
+        }
+    ]
+}

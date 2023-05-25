@@ -1,0 +1,54 @@
+{   "title": "Phylosophy",
+    "mcq": [
+      {
+        "question": "The classical definition of philosophy:",
+        "answers": [
+          {
+            "option": "Philosophy is the science of the most general laws of the development of nature, society, and human thinking",
+            "is_correct": true
+          },
+          {
+            "option": "philosophy is a set of spontaneous, unsystematic ideas about the world",
+            "is_correct": false
+          },
+          {
+            "option": "philosophy is a form of social consciousness, the worldview of an ancient society",
+            "is_correct": false
+          },
+          {
+            "option": "philosophy is the earliest form of spiritual culture of mankind",
+            "is_correct": false
+          },
+          {
+            "option": "philosophy is the search for answers to the main questions of existence.",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "question": "A judgment that characterizes the worldview:",
+        "answers": [
+          {
+            "option": "the worldview is a strict consistent system of judgments about nature",
+            "is_correct": false
+          },
+          {
+            "option": "worldview is a set of individual human experience",
+            "is_correct": false
+          },
+          {
+            "option": "worldview is an idea of the world and a person's place in the world",
+            "is_correct": true
+          },
+          {
+            "option": "worldview is a person's practical experience",
+            "is_correct": false
+          },
+          {
+            "option": "worldview is an attitude",
+            "is_correct": false
+          }
+        ]
+      }
+    ]
+  }

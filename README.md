@@ -28,25 +28,25 @@ To run the quiz application, follow these steps:
 
 ```git clone https://github.com/diassio/quiz_sirius.git```
     
-    Open the folder.
+2. Open the folder.
 
 ```cd quiz_sirius/```
 
-2. Ensure that Python 3.8 is installed on your system.
-3. Install the required dependencies by running the following command in your terminal:
+3. Ensure that Python 3.8 is installed on your system.
+4. Install the required dependencies by running the following command in your terminal:
 
 ```pip3 install -r req.txt```
 
-4. Modify the file path in the app.py script to point to your desired doc file containing the quiz questions.
-5. Modify the content.txt file to satisfy the format requirements of the input text. (Read the Chat GPT prompt section to modify existing texts). Run convert.py to generate a new test.json file.
+5. Modify the file path in the app.py script to point to your desired doc file containing the quiz questions.
+6. Modify the content.txt file to satisfy the format requirements of the input text. (Read the Chat GPT prompt section to modify existing texts). Run convert.py to generate a new test.json file.
 
 ```python3 convert.py```
 
-6. Run the quiz application by executing the following command:
+7. Run the quiz application by executing the following command:
 
 ```python3 -m streamlit run app.py```
 
-7. The application will start, and you can access it in your web browser at http://localhost:8501.
+8. The application will start, and you can access it in your web browser at http://localhost:8501.
 
 ## Usage
 

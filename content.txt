@@ -1,200 +1,386 @@
-#1 *!The MOST frequent cardiologic cause of circulatory arrest:
+#17
+*! A male, 43 y.o., was hospitalised to the clinic of infectious diseases on the 12th day of the disease in a state of moderate severity. He had complaints on weakness, lack of appetite, irregular nausea, dizziness, dark colored urine. The patient got sick gradually: there were increasing weakness, malaise, performance decrement. The last 2 days appeared anorexia, dizziness, dark urine. Epidemiological factor: 3 months ago the patient was treated at the dentist. Objectively: the patient is torpent; there is light yellowness of sclerae. Pulse 60 beats/min. BP 100/60 mm Hg. Tongue puffiness, it lined with white bloom. Abdomen distended, painless. Liver protrudes below the costal margin at 3,0 cm, smooth, elastic.
+*+viral hepatitis В
+*infectious mononucleosis
+*leptospirosis
+*viral hepatitis А
 
-*asystole *ventricular extrasystole *+fibrillation of the ventricles *electromechanical dissociation *paroxysmal supraventricular tachycardia
+#18
+*! What intestinal infection is characterized by fever, cramping pain in the left iliac region, loose stools with mucus and blood?
+*salmonellosis
+*viral hepatitis А
+*botulism
+*+acute shigellosis
+*food poisoning
 
-#2 *!Effective transport immobilization for fractures of the leg bones requires
+#19
+*! A male, aged 38, lives in a dormitory, got sick acutely with the increasing of body temperature up to 39°C, chills, headache, weakness. Almost simultaneously appeared cramping pain in the abdomen, it was 5-6 times vomiting, loose stool up to 7-8 times/day. The abdomen was soft, painful at epigastric, umbilical, right iliac regions. Stool watery, green colored.
+*amebiasis
+*shigellosis
+*+salmonellosis
+*food poisoning
+*chronic gastroenteritis, attack phase
 
-*fix of limb from middle third of thigh-bone to toes *transport immobilization is not required *fixation of hip, knee and ankle joints *+fixing the knee and ankle joints *fixation of bone fragments
+#20
+*! A male, 34 y.o., was hospitalized on the 2nd day of illness with complaints on cramping pain in the abdomen, increasing in body temperature, loose stool up to 15 times/day. The temperature is 38,8ºС. BP 100/70 mm Hg. Pulse 92 beats/min. Sigma colon is spasm, painful on palpation. Stool scanty, with mucus streaked with blood.
+*raw eggs
+*marinated mushrooms
+*tainted lettuce
+*+unwashed cucumber
+*alcohol surrogate
 
-#3 *!At the fracture of the pelvis the victim must be laid
+#21
+! The woman, 48 years old, was admitted to an infectious diseases hospital with complaints of weakness, rapid fatigue, sweating at night, pain in the left wrist and hip joints, and lower back. 8 months ago, she suffered from a disease with high fever, chills, sweating, and joint pain. Epidemiological anamnesis: she keeps sheep and goats in the household. Objectively: emotionally labile. T-37.8. Peripheral lymph nodes are enlarged. Hepatosplenomegaly. In the area of the right hip joint, the skin is hyperemic, there is swelling. Palpation, active and passive movements in the joint are painful. Hemogram: leukocytes - 4.6 х109/l, ESR - 36 mm/h.
+*+Brucellosis
+*Leptospirosis
+*typhoid fever
+*Epidemic typhus
+*Crimean hemorrhagic fever
 
-*+in the "frog" position *elevated pelvis *on the stomach *half sitting *on side
+#22
+*! The man, 45 years old, a veterinarian, was admitted to the hospital with complaints of fatigue, headache, weakness, malaise, fever up to 37.80 C, in the evening-up to 390C, chills and sweating. Objectively: condition of moderate severity. Palpated enlarged cervical and axillary lymph nodes, painless. The heart tones are muted, rhythmic. The belly is soft and painless. The lower edge of the liver protrudes from under the edge of the costal arch by 2 cm, the lower pole of the spleen is palpated. Urine is light, diuresis is adequate. The chair is decorated.
+*primary-chronic brucellosis, decompensation
+*+secondary-chronic brucellosis, decompensation
+*severe Acute brucellosis
+*secondary-chronic brucellosis, compensation
+*acute brucellosis, moderate severity
 
-#4 *!A 36- year-old female has complaints for intense headache, palpitation, pain in the chest, weakness. On examination: the patient is excited, pulse is 115 bpm, BP is 190/110 mm hg. Cardiac sounds are clear, loud, accent of the 2 sound over the aorta. The MOST likely emergency situation of this patient:
+#23
+*! A resident of the village, she has her own livestock. I became acutely ill about 1 month ago with the appearance of high fever to 38-390 C, chills and increased sweating, moderate headache. Despite complaints, she continued to work.
+*Wright's Reaction
+*+Vidal's Reaction
+*Wasserman's Reaction
+*Paul-Bunnel's Reaction
+*indirect hemagglutination Reaction
 
-*pulmonary oedema *cardiogenic shock *pulmonary embolism *+hypertensive crisis *acute coronary syndrome
-#7 *!A 9- year- old child, became irritable, tearful. It was observed abundant serous nasal discharge and frequent sneezing. About 22 hours had a dry cough, noisy breathing with shortness of breathe with participation in the breath auxiliary muscles. On examination: pale is skin, wet, it is noted acrocyanosis. The child is frightened, body temperature is normal.
+#24
+*! The man, 45 years old, a veterinarian, was admitted to the hospital with complaints of fatigue, headache, weakness, malaise, fever up to 37.80 C, in the evening-up to 390C, chills and sweating. Objectively: condition of moderate severity. Palpated enlarged cervical and axillary lymph nodes, painless. The heart tones are muted, rhythmic. The abdomen is soft and painless. The lower edge of the liver protrudes from under the edge of the costal arch by 2 cm, the lower pole of the spleen is palpated. Urine is light, diuresis is normal. The stool is normal. A preliminary diagnosis of "Acute brucellosis" was made. Treatment is scheduled.
+*ampicillin
+*+doxycycline
+*penicillin
+*gentamicin
+*cefazolin
 
-Which of the following preliminary diagnoses is the MOST likely?
+#25
+! A woman, 37 years old, was hospitalized in the infectious diseases Department with suspected acute brucellosis. Results of laboratory examination: in hemogram - 4.3×109/l, stick-core neutrophils - 5%, segmentonuclear neutrophils - 40%, lymphocytes - 45%, monocytes - 10%, ESR-29 mm/h. Wright's reaction is 1: 800, Heddleson's reaction is "++++".
+*a) rash
+*b) diarrhea
+*+c) sweating
+*d) sore throat
+*e) dizziness
 
-*pneumonia *+bronchial asthma *anaphylactic shock *respiratory distress syndromes *pulmonary embolism
+#26
+*! A patient with a suggested “Plague, bubonic form” is diagnosed as a probable case of plague if a patient:
+*a) took a raw water
+*b) took a raw milk
+*c) was involved in livestock management
+*d) swimming in an open basin
+*+e) contacted with rodents
 
-#8 *! A 1,5- year- old child. During the game suddenly developed an attack of whooping cough on the background of full health, have shortness of breath.
+#27
+*! Airborne (dust) route of plague transmission usually corresponds to the following form of the disease:
+*a) pneumonic
+*b) bubonic
+*+c) primary generalized
+*d) tonsillar
+*e) abdominal
 
-Which of the following preliminary diagnoses is the MOST likely?
+#28
+*! Alimentary route of plague transmission usually corresponds to the following form of the disease:
+*a) tonsillar
+*b) bubonic
+*c) pneumonic
+*d) primary generalized
+*+e) abdominal
 
-*acute bronchitis *attack of false croup *+foreign body in the airway *attack of bronchial asthma *community-acquired pneumonia
+#29
+*! Vector-borne route of plague transmission usually corresponds to the following form of the disease:
+*a) abdominal
+*+b) bubonic
+*c) anginal
+*d) pneumonic
+*e) primary generalized
 
-#9 *!A 19- year-old young male on the second day from the onset of the disease called an ambulance, complaints of abdominal pain, nausea, vomiting, dry mouth, bloating. The disease began with pain in the epigastrium. The pain radiated to the right iliac region. Did not appeale to the doctor. The pain spread to the lower part of the abdomen, rised. Which of the following preliminary diagnoses is the MOST correct?
+#30
+*! Contact (wound) route of plague transmission usually corresponds to the following form of the disease:
+*a) pneumonic
+*+b) skin
+*c) primary generalized
+*d) anginal
+*e) abdominal
 
-*appendicular infiltrate *appendicular abscess *+acute appendicitis *acute gastritis *peritonitis
+#31
+*! Plague buboes usually localize in the following region in case of vector-borne route of infection transmission:
+*a) axillary
+*b) cubital
+*+c) groin
+*d) neck
+*e) abdominal
 
-#10 *!A 45- year- old male, complaints of the sputum with blood, weakness. From the past medical history there are pains often related to hunger for about 5 years. On examination – skin is pale, pulse is 100 bpm, BP is 90/70 mm hg.
+#32
+*! A male, 51 y.o., a resident of Petropavlovsk region, got sick acutely - with fever, general intoxication, on the skin of the forearm to the right - a painful ulcer (on this site he noted stick tick). On examination: patient's state is of moderate severity, the ulcer with purulent hemorrhagic fluid, there is lymphangitis; right axillary lymphadenitis (rather compact, moderately painful).
+*a) purulent infection
+*+b) tularemia
+*c) listeriosis
+*d) anthrax
+*e) pasteurellosis
 
-Which of the following preliminary diagnosis is the MOST correct? *Mallory-Weiss tear *cirrhosis with bleeding from the esophageal varices *hemorrhoidal bleeding *+gastric bleeding *intestinal bleeding
 
-#11 *!A 42- year-old female. Examined by the emergency doctor. Complaints of acute abdominal pain that occurred 2 hours ago, frequent vomiting. Pains are colic type. There is a stool, gases do not pass. From the past history: operated on 2 years ago about the ruptured spleen. On examination: restless, loud screams. Abdomen distended more in the upper half, peritoneal symptoms are suspicious, pronounced muscle tension anterior abdominal wall. Which of the following preliminary diagnosis is the MOST correct?
+#33
+*! What form is specific (typical) only for tularemia?
+*a) tonsillar-bubonic
+*b) skin-bubonic
+*+c) ophthalmic-bubonic
+*d) bubonic
+*e) pneumonic
 
-*coprostasis *functional outlet obstruction *low intestinal obstruction *high intestinal obstruction *+acute obstruction of the small intestine
+#34
+*! A male, 28 y.o., was admitted to the hospital with complaints of mild headache, nasal congestion, runny nose, dry cough, minor throat pain. On examination: the body temperature is 37°C, injection of scleral vessels, conjunctivitis of the left eye, moderate hyperemia and mucous granulosity of the posterior pharyngeal wall. Pharyngoconjunctival fever is a clinical variant occurring at:
+*a) influenza
+*b) rhinovirus infection
+*+c) adenovirus infection
+*d) respiratory-syncytial virus infection
+*e) parainfluenza
 
-#14 *!A 20-year- old man - in the street unconscious in critical condition. On examination - there are not physical injuries. It is severe cyanosis of the skin, along the veins on his hands traces of injections. Breathing is rare, surface. Heart sounds are muffled, the correct rhythm, heart rate is 70 bpm, blood pressure is 90/60 mm Hg.
+#35
+*! Catarrhal symptoms with expressed pharyngitis, tonsillitis, rhinitis, lymphadenopathy are characteristic:
+*exudative combined component manifested with conjunctivitis,
+by and
+*a) influenza
+*b) rhinovirus infection
+*c) infectious mononucleosis
+*+d) adenovirus infection
+*e) meningococcal nasopharyngitis
 
-Which of the following preliminary diagnoses is the MOST correct?
+#36
+*! A male, aged 31, was taken ill acutely with chills, fever up to 39°C, pain in the frontal and retro-orbital areas, aching muscles, bones and joints, throat pain and irritation, nasal congestion. On examination on the 2nd day of illness redness and puffiness of the face, the injection of sclera vascular, runny nose, dry cough, tachycardia were marked.
+*+a) Influenza
+*b) adenovirus infection
+*c) meningitis
+*d) parainfluenza
+*e) typhus
 
-*an alcoholic coma *+the narcotic coma *an apoplectic coma *a hypoglycemic coma *congestive heart failure
+#37
+*! A male, 25 y.o., was admitted to the hospital. He got sick acutely, for 2 days ago. The disease onset was with headache, high fever up to 39о C, sore throat, pain in the eyes, stuffy nose, body aches. He took Theraflu, paracetamol - without any effect. On examination: bright hyperemia in the oropharynx, redness and puffiness of the face, the injection of sclera vascular, nose is stuffed up. In the lungs: hard breathing, no wheezing. Heart sounds are muffled. Pulse 98 beats/min, blood pressure - 100/60 mm Hg.
+*a) larynx
+*b) throat
+*c) bronchi
+*+d) trachea
+*e) the alveoli
 
-#15 *!A 3- year-old child accidentally drank acetic acid. On examination, the child is crying, the mouth coated with white scurf.
+#38
+*! A male aged 31, got sick acutely with the pain in frontal and retro-orbital regions, chill; aching muscles, bones and joints, retrosternal pain, nasal congestion, high fever up to 39°C. On examination at the 2nd day of the disease: the redness and puffiness of the face, the injection of sclera vascular, runny nose, dry cough, and tachycardia were marked.
+*+a) Influenza
+*b) adenovirus infection
+*c) meningitis
+*d) parainfluenza
+*e) typhus
 
-Which of the following preliminary diagnoses is the MOST correct?
+#39
+*! A girl, aged 16, a student of the Lyceum, was admitted to the clinic on the 1st day of illness. The disease started acutely with sudden increase in body temperature to 40°C; severe headache; vomiting, not bringing relief. On admission: general condition is extremely serious, sopor. Pupils are dilated, react to light. Pronounced neck stiffness, Kernig symptom is positive. There is a general hypersensitivity. At the lungs vesicular breathing is auscultated. Muffled heart sounds, Pulse 130 beats per min., Blood pressure - 100/50 mm Hg.
+*a) meningococcemia
+*+b) meningococcal meningitis
+*c) meningococcemia and meningoencephalitis
+*d) meningococcemia and meningitis
+*e) meningococcal meningoencephalitis
 
-*thermal burn of mouth *chemical burn of mouth *chemical burn of stomach *chemical burn of esophagus *+chemical burn of the mouth and esophagus
+#40
+*! A young man, aged 16, was admitted to the hospital in serious condition 7 hours since illness starting. Disease symptoms started acutely with a sharp chills, headache, vomiting, and increase in body temperature to 39°C. After 4 hours, the plentiful hemorrhagic rash appeared on the skin. On admission: the body temperature is 36,5°C, dyspnea, cyanosis, motor excitation, thready pulse, blood pressure 60/40 mm Hg.
+*+a) meningococcemia
+*b) meningococcal meningoencephalitis
+*c) meningococcemia
+*d) meningococcemia and meningitis
+*e) meningococcemia and meningoencephalitis
 
-#16 *!A 64- year- female during the inspection has lost consciousness. Developed cyanosis of the skin, pupils moderately dilated, carotid pulse and breathing are absent.
+#41
+*! A male, 20 y.o., was taken ill acutely with increasing temperature up to 40°C, headache, loss of appetite, weakness, pain in the muscles of the back and limbs. Next day a hemorrhagic rash on the feet, legs, hips appeared. BP 100/60 mm Hg, pulse 100 beats/min. In common blood analysis: WBC – 20x109 /l, leukocyte formula had shift to the left. ESR - 40 mm/h, platelets - 120x109 /l. The treatment was prescribed by a doctor of the admission department.
+*a) Glucose 5% -500 ml, IV, by drop infusion
+*b) Trisolum 500 ml, IV, by drop infusion
+*+c) Penicillin 12 million / day / IM
+*d) Ascorbic acid 5% -10.0 IV
+*e) Baralginum 5.0 ml, IM
 
-The MOST effectively start emergency care with
+#42
+*! A male, 25 y.o., got sick acutely with rise in temperature to 40°C, headache, vomiting 3 times, weakness. Next day there was a stiff neck. Blood pressure is 90/60 mm Hg, pulse - 100 beats/min. In common blood analysis: WBC - 20x109/l, leukocyte has shift to the left. ESR - 40 mm/hour, platelets - 120x109/l. The cerebrospinal fluid analysis: it is cloudy, flows under pressure, the Pandy's reaction - (+++), cytosis is at the expense of neutrophils. The treatment was prescribed by a doctor of the admission department.
+*a) Glucose 5% -500 ml, IV, by drop infusion
+*b) Trisolum 500 ml, IV, by drop infusion
+*c) Ascorbic acid 5% -10.0 IV
+*+d) Laevomycetin 3.0 g/day IM
+*e) Baralginum 5.0 ml, IM
 
-*intracardiac Epinephrine *mechanical ventilation *+compressions *electrocardiography *toilet of oral cavity
+#43
+*! A young man, aged 16, was admitted to the hospital. Complaints: within 3 days temperature 37,7°C, headache, sore throat, and pain along the trachea, rough barking cough. On examination: moderate hyperemia of the oropharynx mucosa; tonsils are not enlarged. Rapid and trouble breathing, profuse serous nasal discharge, hoarseness. Heart sounds are muffled, pulse is 82 beats/min, blood pressure is 100/60 mm Hg. Abdomen is soft, painless. Urinating is properly.
+*a) influenza
+*+b) parainfluenza
+*c) adenovirus infection
+*d) rhinovirus infection
+*e) respiratory-syncytial virus infection
 
-#18 *! A 65- year- old male complains of cough with the release of red blood, aggravated by motion. From the Past Medical History: has been observed at the place of residence with lung disease, recently had surgery on his lungs. Suffers from heart disease, takes an Aspirine. On examination: weakness, sharp pallor, heart rate is 100 bpm, BP is 100/60 mmHg.
+#44
+*! A young man, aged 16, was admitted to the hospital. Complaints: within 3 days temperature 37,7°C, headache, sore throat, and pain along the trachea, rough barking cough. On examination: moderate hyperemia of the oropharynx mucosa; tonsils are not enlarged. Rapid and trouble breathing, profuse serous nasal discharge, hoarseness. Heart sounds are muffled, pulse is 82 beats/min, blood pressure is 100/60 mm Hg. Abdomen is soft, painless. Urinating is properly.
+*a) nasal mucosa
+*b) pharynx
+*+c) larynx
+*d) trachea
+*e) bronchi
 
-The use of which drug is the MOST appropriate?
-
-*Aminophylline *+Dicynone *Salbutamol *Mucaltine *Prednisolone #19 *!A 47- year-old female on examination of emergency doctor complaints of cramping abdominal pain, bloating, lack of stool and gases. Have been sicked for day, vomiting appeared an hour before with fecal smell.
-
-Which of the following is the MOST appropriate for this patient?
-
-*to keep under the observation *+emergency hospitalization *the high-grade enema *gastric lavage *analgesia
-
-#21 *!A 5-year-old child complains about cramps, muscle twitching, hallucinations, bronhorreya, shortness of breath, persistent vomiting and abdominal pain. What is your primary action?
-
-*perform the intravenous infusion *+gastric lavage *apply to toxicologist *hospitalization in toxicology *hospitalization in intensive care Department
-
-#1 *!Which is the most commonagent of nosocomial pneumonia?
-
-*Haemophilusinfluenzae *Pneumocystis carinii *Streptococcus pneumoniae *+Pseudomonasaeruginosa *Mycoplasmapneumoniae
+#45
+*! A male, 25 y.o., was admitted to the hospital. He got sick acutely, for 2 days ago. The disease onset was with headache, high fever up to 39°C, sore throat, pain in the eyes, stuffy nose, body aches. He took Theraflu, Paracetamol - without any effect. On examination: bright hyperemia in the oropharynx, redness and puffiness of the face, the injection of sclera vascular, nose is stuffed up. In the lungs: hard breathing, no wheezing. Heart sounds are muffled. Pulse 98 beats/min, blood pressure - 100/60 mm Hg.
+*a) common blood analysis
+*b) common urine analysis
+*c) throat swab on the microflora
+*d) blood chemistry
+*+e) throat swab on virology
 
 #2
+*! Male 22 years old, coming from Africa, was admitted with complaints of recurrent bouts of fever, accompanied by chills and sweating. On examination: state is of moderate severity. Fever – 38,9°C. Theliver is enlarged up to 2,0-2,5 cm, the spleen is enlarged too. In blood: eritrocytes - 2.9×1012/l, hemoglobin - 101 g/l, leukocytes 6.9×109/l, ESR-22 mm/hour.
 
-*! What is the frequency of asthma attacks most common for intermittent asthma??
+Which laboratory method is MOST reliable to confirm the diagnosis?
 
-*+not often than 1 time a week *3 – 4 times a week *1 time a year *3 – 4 times a day *in the night time 3 – 4 times a week
+*A. Thick straw, a thin smear
+*B. Blood cultures in a dual environment
+*C. CFT with the Rickettsia Prowacek
+*D. Blood culture in bile broth
+*+E. The blood culture in transport medium
 
-#3 *!At which duration of angina attack, the doctor should consider myocardial infarction development:
+#4
+*! Male 37 years old, taken to hospital from the airport in serious condition with fever 41°C, severe headache, repeated vomiting. He became ill the day before in Sierra-Leone, where he was on a businesstrip during the month. On examination: :he groans, holding his head, there was vomiting during the examination. Face was red, eyes were injected. All stages of Plasmodium falciparum development weredetected in large quantity in the blood smear.
 
-*more than 10 minutes *+more than 30 minutes *more than hour *more than a day *less than 10 minutes
+Which drug is MOST effective for the treatment of this disease (Protocol of diagnostics and treatment ofTropical Malaria, 2014)?
 
-#4 *!Awoman, 42 years old, complaints of retrosternal pains, appearing after the meal, increasing at physical stress, heartburn, gaseous eructation, in the morning – voice hoarseness. This symptomatology bothers her for many years. EGDS was performed: incomplete closing of cardiac sphincter, hyperemia in the lower third of esophagus, presence of epithelial ectopy foci. Which pathology shouldme MOST probably considered?
+*+A. Quinine
+*B. Mefloquine
+*C. Hingamin
+*D. Artesunate
+*E. Halofantrine
 
-*GERD * esophageal carcinoma * esophageal achalasia *peptic ulcer of esophagus *+ Barrett's syndrome
+#5
+*! Male 36 years old, taken to hospital from the airport in serious condition with fever 40°C, severe headache, repeated vomiting. He became ill the day before in Sierra-Leone, where he was on a businesstrip during the month. On examination: he groans, holding his head, there was vomiting during the examination. Face was red, eyes were injected. All stages of Plasmodium falciparum development weredetected in large quantity in the blood smear.
 
-#5 *!Indicate MOST typical picture in colonoscopic examination of a Crohn's disease patient: *catarrhal-ulcerous proctosigmoiditis *+"cobblestone appearance" of mucous membrane *continuous damage: deepundermined ulcers on unchanged mucous membrane *multiple polips on unchanged mucous membrane *increases and edema of"Peyer's plaques"
+Which drug is MOST effective for the treatment of this disease?
+*A. Quinine
+*B. Mefloquine
+*C. Hingamin
+*D. Artesunate
+*+E. Halofantrine
 
-#6 *!Which glomerular filtration rate corresponds with chronic kidney disease stage 5?
+#6
+*! Male, 35 years old, with chronic HCV, moderate activity 3 months ago underwent malaria in Malaysia. Arrived for study in Almaty in September. There were found gametocytes 3 – 4 in field of view on examination his blood. What level of parasitemia and which kind of malaria are the MOST characteristic?
+*+A. Sub-patent level of parasitemia in Falciparum Malaria
+*B. Patent level of parasitemia in Falciparum Malaria
+*C. Sub-patent level of parasitemia in Vivax Malaria
+*D. Patent level of parasitemia in Vivax Malaria
+*E. A moderate level of parasitemia
 
-*90-120 ml/min *89-60 ml/min *59-30 ml/min *29-15 ml/min *+< 15 ml/min
+#7
+*! Female 25 years old, was transferred from maternity hospitals to the infectious diseases hospital in November because there were detected gametocytes 2 – 3 in the field of view in blood smear without clinical manifestations of malaria. The term of pregnancy of 26 – 27 weeks. In August suffered malaria in Afghanistan are treated. In September when she arrived in Almaty, there were mo manifestations of acutemalaria.
 
-#2 *!In a 34-year old woman after household cleaning, attacks of cough with mucous viscous sputum, wheezing appeared. In patient's anamnesis, allergy to honey, grasses, dust is noted. In complete sputum analysis – eosinophils 7%, on immunogram IgE level is increased. Spirography data: FVC – 85%, FEV 1 – 50%, Tiffno's index – 65%. Which of listed diagnoses is MOST probable?
+What treatment is MOST effective in this case?
 
-*Chronic bronchitis *Community-acquired pneumonia *Hospital-acquired pneumonia *Multiple bronchiectasis *+Bronchial asthma
+*A. Primaquine 0,027 g 14 days
+*B. Artesunate 4mg/kg in 2 doses per day. within 3 days
+*C. Tetracycline 0.1 x 2 times a day 7 days
+*D. Does not hold etiotropic treatment
+*+E. Zitmak according the scheme
 
-#3 *!A man, 60 years old, suddenly felt himself poor: increasing pressing retrosternal pain appeared, which in half an hour became intolerable. Patient is pale, covered with cold sweat. BR – 18 in 1 minute, HR – 100 in 1 minute. AP – 110/80 mmHg. Heart sounds are subdued, correct rhythm. In lungs, vesicular breathing. Blood was taken 4 hours after disease commencement.
+#8
+*! Male, 35 years old, geologist, he worked in Afghanistan 6 months. Taken in critical condition on the 4th day of illness. He is in consciousness, there are vomiting and fever, alternating copious sweating. Myalgia, injection of vascular sclera, enlarged liver and spleen. The BP – 80/50 mm Hg.Column. Anuria. Probable diagnosis of "Malaria".
 
-Which indices, taken at the admission, will confirm your diagnosis?
+Where it is necessary to hospitalize the patient (Order 283 of 31.03.16)?
 
-*leukocytes *ESR *+troponin *AST *myoglobin
+*A. To the Therapeutic Department
+*B. To the Intensive Care Department of multidisciplinary hospital
+*+C. To the Intensive Care Department of infectious hospital
+*D. To the febrile Department of infectious hospital
+*E. To the Department of renal dialysis
 
-*myocardial infarction
+#9
+*! Male, 22 years old, student from Sudan after a long stay in Almaty visited their native places and therefell ill of tropical malaria, confirmed by pathogen detection. Took quinine. Condition had deteriorated, intoxication increased, fever rose to 40oC. There are back pain, skin yellowness, oliguria. Urine has dark-red color.
 
-#7 *!In a man, 72 years old, dyspnoe at insignificant physical stress has appeared, nocturnal asthma attacks, palpitation. In anamesis – old myocardial infarction. Objectively: orthopnea, lips cyanosis. In lungs – fine moist rales in lower parts of both lungs. Heart sounds are subdued. HR 90 per 1 min. AP 120/70 mmHg. Liver is 4 cm lower than the costal margin edge. Edemas on legs up to knies. Diurnal diuresis about 700 ml.
+What method of diagnostics is the MOST reliable?
+*+Smear and thick drop of blood
+*Common blood test
+*Common urine test
+*Biochemical
+*Coagulogram
 
-Which chronic heart failure stage is MOST PROBABLE in this patient?
+#11
+*! Male, 36 years old, geologist. He worked in Afghanistan for 6 months. Taken to hospital in a serious condition in a stupor. Accompanying person said thet patient is sick 2 days. Illness began with fever andchills, severe headache, vomiting 2 times, and excitement.
 
-*CHF I *+CHF II B *CHF II А *CHF III *CHF 0
+What method of diagnostics is the MOST reliable?
+*+Smear and thick drop of blood
+*Common blood test
+*Common urine test
+*Biochemical
+*Coagulogram
 
-#8 *!А patient with complaints against "coffee-grounds" vomiting, tarry stool, weakness, dizziness. In anamnesis, he suffers from duodenal ulcer for many years. The day before he was a visitor, eating a lot of spicy food. Objectively: conscious, inhibited, pale coverlets, covered with cold sweat, positive Bergman's sign. HR 100 bpm, AP 85/60 mmHg.
+#12
+*! Male, 45 years old, resident of Afghanistan, had lost consciousness on the 2nd day of fever. There are fever 40oC, dilated pupils, neck muscle rigidity (2 fingers), Kernig symptom is weakly positive. There is no rash. He had worked in the field, was under the mosquitoes bites.
 
-Your presumable diagnosis:
+Diagnosis: Cerebral malaria
 
-*duodenal ulcer, complicated by malignant transformation *+duodenal ulcer, complicated by hemorrhage *duodenal ulcer, complicated by perforation *duodenal ulcer, complicated by penetration *duodenal ulcer, complicated by stenosis
+What drug (medicine) is the MOST effective?
+*+Quinine
+*Delagil
+*Primaquine
+*Fansidar
+*Mefloquine
 
-#9 *!A woman, 30 years old, for the last 3 years is observed in polyclinic because of suddenly occurring colicky pains attacks in the right hypochondrium, having short-term nature. She relates attack occurrence with psychoemotional factors. Abdomen US and colonoscopy without patology.
+#13
+*! Woman 42 years old, diagnosis "Dengue Fever, hemorrhagic form" according to clinical and epidemiological data.
 
-Which of listed diagnoses is MOST probable?
+What method of diagnostics is the MOST reliable?
+*Detection of IgG antibodies
+*+Detection of IgM antibodies
+*Bacterioscopy
+*The reaction of passive hemagglutination
+*Virological method
 
-*chronic hepatitis *cholelithiasis *+irritated bowel syndrome *duodenal ulcer *Oddi's sphincter dysfunction #10 *!A man, 50 years old, abusing alcohol, complains of pains in the upper part of abdomen, increasing after meal, nausea, abdominal distension, watery stool, weight loss.
+#14
+*! Woman 43 years old, diagnosis "Dengue Fever, hemorrhagic form" according to clinical and epidemiological data.
 
-Which diagnostic methos allows to evaluate condition of damaged organ exocrine function?
+What method of diagnostics is the MOST reliable?
+*Detection of IgG antibodies
+*+Detection of IgM antibodies
+*Bacterioscopy
+*The reaction of passive hemagglutination
+*Virological method
 
-*рН-metry *urease test *+elastase test *glucose tolerance test *duodenal intubation
+#15
+*! Woman 43 years old, diagnosis "Dengue Fever, hemorrhagic form" according to clinical and epidemiological data.
 
-#11 *!A man, 28 year old, at CBA examination: Er – 4.0 × 1012 /l, hemoglobin – 160 g/l, Tr – 280 × 109 /l, L – 6.6 × 109 /l, ESR – 4 mm/h. Biochemistry: bilirubin – 44.6 µmol/l, indirect – 38 µmol/l, ALT – 2.89 mmol/l, AST – 2.14 mmol/l. Screening: HBsAg positive, a-HCV – neg.; Markers: a-HBs – positive, a-HBcore IgM – positive, aHBVcore IgG – neg., HBe Ag – pos., a-HBe – neg., anti-HCV IgM – neg., anti-HCV IgG – neg., anti-HDV – neg.
+What are the MOST characteristic changes in the blood during hemorrhagic fevers?
+*Leukocytosis with neutrophilia
+*Leukocytosis with lymphocytosis
+*Normocytes with lymphocytosis
+*+Leukopenia with thrombocytopenia
+*Leukopenia with lymphocytosis
 
-Which examination should be performed on the next stage of diagnostics?
+#16
+*! Woman 41 years old, diagnosis "Dengue Fever, hemorrhagic form" according to clinical and epidemiological data.
 
-*liver biopsy *PCR on НСV RNA *PCR on НDV RNA *+PCR on НВV DNA *computed tomography of liver
+What are the MOST characteristic changes in the blood biochemical analysis in hemorrhagic fevers?
+*+Increased activity of ALT, AST. Hyperbilirubinemia
+*Increased activity of AST, increased of bilirubin indirect fraction
+*Increased activity of alkaline phosphatase
+*Increase of cholesterol
+*Increase of glucose
 
-#12 *!A man, 47 years old, angiosurgeon, at blood count: bilirubin – 34.6 µmol/l, indirect – 28 µmol/l, ALT –2.89 mmol/l, AST – 1.34 mmol/l. Screening: HBsAg – neg., aHCV – pos.; Market diagnostics: a-HBs – positive, a-HBcore IgM – neg., a-HBVcore IgG – neg., HBe Ag – neg., a-HBe – neg., anti-HCV IgM – pos., anti-HCV IgG pos., anti-HDV – neg.
+#17
+*! What is the rate of coagulation indicates severe hemorrhagic fevers?
+*Fibrinogen 3.0 g/l
+*Thrombin time 20 sec
+*+Prothrombin index 40%
+*Prothrombin index 80%
+*Prothrombin index 90%
 
-Which of listed diagnoses is MOST probable?
 
-*steatohepatitis *acute viral hepatitis *chronic aggressive hepatitis *chronic viral hepatitis B *+chronic viral hepatitis С #13 *!In a patient, 18 years ago chronic viral hepatitis C was diagnosed, she hasn't became any anti-viral therapy. During the last year, weakness grew, appetite decreased, in the morning, gingival hemorrhage. Poor, flabby condition, moderate jaundice. Liver comes out by 2.0 cm from the costal margin, has thick consistency. Spleen is enlarged by 1.0 cm. In CBA, platelets 120 × 109 /l, ESR 40 mm/h. In biochemical blood analysis, ALT 30 U/l, AST 21 U/l, total bilirubin 56 µmol/l, albumin 28 g/l, liver elasticity based on indirect elastography data, corresponds with fibrosis stage F4. Which diagnosis is MOST probable?
+#19
+*! Woman 36 years old, diagnosis of “Dengue fever” according to clinical-epidemiological data. She is sick 3rd day.
 
-*acute viral hepatitis А *chronic viral hepatitis В *chronic viral hepatitis С *+liver cirrhosis in the outcome of viral hepatitis С *toxic hepatitis
-
-#14 *!A patient, 40 years old, complains of periodic cramp-like pains in the left iliac area, left mesogastrium, semi-liquid feces, sometimes with the admixture of vermilion blood, weakness, subfebrile temperature; mentioned complaints bother him for 3 years. Objectively: condition of average severity. BMI = 16.5. Pale. At abdominal palpation, tenderness in the left mesogastrium, left iliac area. Sigmoid colon is spasmodic, tender. CBA: erythrocytes 3.4 × 1012 /l, Hb 100 g/l, leukocytes 12.0 × 109 /l, ESR 30 mm/h.
-
-Indicate the MOST probable diagnosis?
-
-*acute dysentery *chronic dysentery *purpura rheumatica *+nonspecific ulcerative colitis *Crohn's disease
-
-#15 *!Woman K., 37 years old, admitted to doctor with complaints against weakness, dizziness, blackout, paresthesias in feet and gait instability. He lost up 10 kg of her weight. Above-mentioned complaints appeared few months ago, and increased slowly.
-
-In the examination, icterity of coverlets. In lungs, vesicular respiration. AP – 120/70 mmHg. Pulse – 96 bpm. Heart sounds are rhythmic, systolic murmur. In the common blood analysis – Er. 2.8 × 1012 /l; Hb – 70 g/l, CP – 1.4, platelets 110 × 109 /l, leukocytes – 4.5 thousand, ESR – 16 mm/h, macrocytosis, hypersegmentation of neutrophils.
-
-Which diagnosis is MOST probable? *Asiderotic anemia *+В12-deficient anemia *Thalassemia *Aplastic anemia *Microspherocytosis
-
-#16 *!A woman, 40 years old, applied to doctor with complaints against weakness, dyspnoe at physical stress, palpitation, hemorrhagic eruptions on the skin of trunk. She considers herself ill for a year. Objectively: coverlets and visible mucous membranes are pale, hemorrhagic eruptions on the skin of trunk and internal surface of hips. Liver and spleen are not enlarged. CBA: Hb 76 g/l, Er. 2.3 × 1012 /l, CP 1.0, L 1 × 109 /l, e.0%, p. 11%, s.36%, l 50%, m 10%, reticulocytes 0.2%, thrombocytes 48 × 109 /l, ESR – 51 mm/h. Coombs' test is negative, myelogram: not enough material was obtained.
-
-Which anemia of listed ones is MOST probably takes place in this case?
-
-*sideropenic *asiderotic *hemolytic *+aplastic *В12-deficient
-
-#17 *!A patient, 44 years old, complains of weight loss, fatiguability, weakness, dizziness, hyperhydrosis. Pains in area of right and left hypochondrium. For 16 years he worked in polyclinic as radiologist. He is often troubled by a cold. At objective examination, coverlets are pale, moist, there are bruises (he don't remember them), bad smell from mouth. At palpation, hepatomegaly, splenomegaly was detected. Submaxillary lymph nodes are enlarged, painless. In CBA, ER – 3 mio, НВ – 90 g/l, Leuk - 90 thous., myeloblasts – 4%, promyelocytes – 6%, metamyelocytes – 10%, Pal – 10%.
-
-Set the most probable clinical diagnosis:
-
-*Acute lymphoblastic leucosis *Acute myeloblastic leucosis *Chronic lymphocytic leukemia *+Chronic myelogenous leukemia *Hodgkin's disease
-
-#18 *!Patient K., 28 years old, on the body appeared petechial spotty skin rash, he is bothered by nasal, gingival hemorrhages. Edge of spleen is palpated. In blood – Er. 4.0 × 1012 /l, leukocytes 4.5 × 109 /l, leucoformula – unchanged, platelets 12 × 109 /l. Which diagnosis is MOST probable?
-
-*Thrombocytopathy *Hemorrhagic diathesis *Hemolytic anemia *Purpura rheumatica *+Autoimmune thrombocytopenia
-
-#20 *!A man, 50 years old, called a physician in his home. Complaints against severe pain in the right foot, body temperature increase to 38ºC and headache. Came out that day before he visited friend's birthday, eating barbeсue and drinking alcohol in large volume. Pain commenced suddenly, about 5 am, and was localized mostly in the area of I—II metatarsophalangeal articulations of the right foot. Skin over the big toe joint is acutely hyperemic, hot at touch, edema spreads to adjacent soft tissues, palpation is acutely painful, movements and walking are virtually impossible. Such condition occurred for the first time in his life.
-
-Which diagnosis is most probable?
-
-*Rheumatoid arthritis *+Gouty arthritis *Reactive arthritis *Osteoarthritis *Rheumatic arthritis
-
-#21 *!Female patient, 20 years old, was delivered to the emergency hospital with complaints against progressing asthma, fever up to 39ºC for a week. In the following questioning was determined that she is bothered by pains in small hand joints for more than a year, in last 6 months she noticed appearance of small ulcers in mouth. In chest radiography, pleural effusion was detected, in CBA – sharply accelerated ESR with normal CRP level.
-
-Which diagnosis is most probable?
-
-*+Systemic lupus erythematosus *Systemic scleroderma *Sjögren's sicca syndrome *Discoid lupus erythematosus
-
-* Behçet's disease
-
-#22 *!A woman, 25 years old, with complaints against asthma, moist coverlets, rapid pulse, body tremor, insomnia. In last 3 days she cannot leave the bed. General condition is poor. Coverlets are clean, wet. At the examination, cardiac impulse is seen visually, in auscultation, systolic-diastolic murmur on the apex is heard. HR 120 per min. At abdominal palpation: improved abdominal aorta pulsation. At the examination: thyroid US: summary volume 35 ccm. TTH – 0.00 mIU/l, cv Т4 80 pmol/l, cv Т3-20 pmol/l, antibodies to TTH receptor – 5 IU/l.
-
-Based on above-mentioned data, set the MOST probable diagnosis:
-
-*Subacute thyroiditis *+Graves-Basedov's disease *Hashimoto's thyroiditis *Nodular goiter *Papillary carcinoma
-
-#23 *!A 40 y.o. woman complains for pains in the joints of the hands, feet, chilliness, numbness in the cold. Objectively: a vascular “stars” on the face. Hands in flexion contracture, sores on toes, hands. Raynaud's syndrome. In the lungs vesicular breathing, wheezing in the lower sections. Muffled heart sounds, systolic murmur at the top, regular rhythm. Heart rate is 80 per minute. Blood pressure - 150/90 mm Hg. In the blood: RBC-4.5x1012/l, Hb-110 g / l, WBC-5,0x109/l, -ESR - 18 mm / h. What is the most likely diagnosis? *Systemic lupus erythematosus *Rheumatoid arthritis *Periarteritis nodosa *+Systemic scleroderma *Rheumatic fever
-
-#24 *!At 38 year-old man after an injury, appeared pains in the muscles of the upper and lower extremities, muscle weakness. A week ago appeared swelling of the eyelids, purple color of the face and neck, shortness of breath on slight exertion, nasal voices, choking food. Objectively: swelling, muscle soreness of the shoulder girdle, thighs. Bloodtest: RBC-5.0x1012/l, Hb-90 g /l, WBC- 8.2x109/l, ESR - 58 mm/h.
-
-What is the most likely diagnosis?
-
-*Acute rheumatic fever *Systemic scleroderma *Systemic lupus erythematosus
-
-*Nonspecific aortoarteritis *+Idiopathic dermatomyositis
+What etiotropic drug is most effective?
+*+Ribavirin
+*Anaferon
+*Cycloferon
+*Groprinosin
+*Genferon

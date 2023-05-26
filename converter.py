@@ -52,4 +52,4 @@ def run_converter(path_to_content: str):
         f.write(json_data)
 
 if __name__ == "__main__":
-    run_converter("/Users/dias/Documents/Cerebra/quiz/content.txt")
+    run_converter("./content.txt")

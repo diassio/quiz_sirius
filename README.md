@@ -29,13 +29,17 @@ To run the quiz application, follow these steps:
 2. Ensure that Python 3.8 is installed on your system.
 3. Install the required dependencies by running the following command in your terminal:
 
-```pip install -r req.txt```
+```cd quiz_sirius```
+```pip3 install -r req.txt```
 
 4. Modify the file path in the app.py script to point to your desired doc file containing the quiz questions.
-5. Open a terminal or command prompt and navigate to the project directory.
+5. Modify the content.txt file to satisfy the format requirements of the input text. (Read the Chat GPT prompt section to modify existing texts). Run convert.py to generate a new test.json file.
+
+```python3 convert.py```
+
 6. Run the quiz application by executing the following command:
 
-```python -m streamlit run app.py```
+```python3 -m streamlit run app.py```
 
 7. The application will start, and you can access it in your web browser at http://localhost:8501.
 
@@ -55,3 +59,26 @@ Styling: Adjust the appearance of the quiz application by modifying the Streamli
 Logging: Modify the loguru logger configuration in the app.py script to control the logging behavior according to your needs.
 Conclusion
 The Quiz Generator from Doc Files project provides a simple way to create interactive quizzes using Streamlit. By parsing doc files, the application generates multiple-choice questions and allows users to test their knowledge. This project can be customized and extended to support various quiz formats and additional features as per specific requirements.
+
+## Chat GPT prompt
+
+Copy and paste following prompt and add your test questions:
+
+```
+Task Description:
+Transform a series of multiple-choice questions and their corresponding answers into a specific format suitable for simple text parsing in Python. Retain the original content of the questions and answers but modify the structure. The expected output format is as follows:
+
+1. Start each question with a '#' symbol, followed by the question number.
+2. Begin the question itself with '*!' with no space in between.
+3. Mark the correct answer with '*+' at the beginning and false answers should start with ‘**’ There should be no space between the special symbols and the first letters of the sentence.
+4. Remove all the a), b), c), d) etc., options, and retain only the text of the options.
+
+Sample output:
+
+#1
+*! This is the first question.
+*+True answer
+*False answer 1
+*False answer 2
+*False answer 3
+```

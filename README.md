@@ -19,14 +19,16 @@ The project relies on the following dependencies:
 3. loguru: A logging library for Python.
 4. json: A Python library for working with JSON data.
 5. regex: A Python library for text parsing
-##Setup and Execution
+
+## Setup and Execution
+
 To run the quiz application, follow these steps:
 
 1. Clone the project repository to your local machine.
 
 ```git clone https://github.com/diassio/quiz_sirius.git```
-
-Open the folder.
+    
+    Open the folder.
 
 ```cd quiz_sirius/```
 

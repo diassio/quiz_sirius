@@ -1,5 +1,5 @@
 streamlit
 regex
 loguru
-pip install urllib3==1.26.6 
+urllib3==1.26.6 
 

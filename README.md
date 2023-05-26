@@ -26,10 +26,13 @@ To run the quiz application, follow these steps:
 
 ```git clone https://github.com/diassio/quiz_sirius.git```
 
+Open the folder.
+
+```cd quiz_sirius/```
+
 2. Ensure that Python 3.8 is installed on your system.
 3. Install the required dependencies by running the following command in your terminal:
 
-```cd quiz_sirius```
 ```pip3 install -r req.txt```
 
 4. Modify the file path in the app.py script to point to your desired doc file containing the quiz questions.

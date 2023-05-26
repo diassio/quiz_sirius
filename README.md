@@ -19,6 +19,7 @@ The project relies on the following dependencies:
 3. loguru: A logging library for Python.
 4. json: A Python library for working with JSON data.
 5. regex: A Python library for text parsing
+6. urllib3: is a feature-rich, thread-safe HTTP client for Python.
 
 ## Setup and Execution
 
@@ -26,25 +27,35 @@ To run the quiz application, follow these steps:
 
 1. Clone the project repository to your local machine.
 
-```git clone https://github.com/diassio/quiz_sirius.git```
+```
+    git clone https://github.com/diassio/quiz_sirius.git
+```
     
 2. Open the folder.
 
-```cd quiz_sirius/```
+```
+    cd quiz_sirius/
+```
 
 3. Ensure that Python 3.8 is installed on your system.
 4. Install the required dependencies by running the following command in your terminal:
 
-```pip3 install -r req.txt```
+```
+    pip3 install -r req.txt
+```
 
 5. Modify the file path in the app.py script to point to your desired doc file containing the quiz questions.
 6. Modify the content.txt file to satisfy the format requirements of the input text. (Read the Chat GPT prompt section to modify existing texts). Run convert.py to generate a new test.json file.
 
-```python3 convert.py```
+```
+    python3 convert.py
+```
 
 7. Run the quiz application by executing the following command:
 
-```python3 -m streamlit run app.py```
+```
+    python3 -m streamlit run app.py
+```
 
 8. The application will start, and you can access it in your web browser at http://localhost:8501.
 
